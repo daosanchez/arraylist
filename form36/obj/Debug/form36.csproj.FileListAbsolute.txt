@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\bin\Debug\form36.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\bin\Debug\form36.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\bin\Debug\form36.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.exe
+C:\Users\User\Desktop\KORUMASIZ\ravza\form36\form36\obj\Debug\form36.pdb
